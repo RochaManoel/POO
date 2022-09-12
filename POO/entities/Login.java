@@ -239,6 +239,7 @@ public class Login {
         [4] - Área de Relatórios
             => Relatório Geral de Projetos;
             => Relatório Geral de Atividades;
+            => Relatório de Projeto;
         [5] - Área de Usuário
             => Consultar Determinado Usuário;
             => Gerenciamento das bolsas;
@@ -249,7 +250,7 @@ public class Login {
             => Alterar Status do Projeto pelo usuario coordenador;
             => Consultar Determinado Projeto;
         [7] - Área de Atividades
-            => Criar Atividades (Todas as informações básicas);               //Preciso de um projeto como base, perguntar!
+            => Criar Atividades (Todas as informações básicas);
             => Remover informações da Atividade (Todas as informações básicas das básicas);
             => Editar informações da Atividade (Todas as informações básicas das básicas);
             => Consultar Determinada Atividade;
