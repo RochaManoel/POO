@@ -18,18 +18,6 @@ public class Login {
     private void runLogin(){
         Scanner input = new Scanner(System.in);
         boolean control = true;
-        User userOne = new User("a", "a", 1, "a");userList.add(userOne);
-        User userTwo = new User("b", "b", 1, "b");userList.add(userTwo);
-        User userTree = new User("c", "c", 1, "c");userList.add(userTree);
-        User userFour = new User("d", "d", 1, "d");userList.add(userFour);
-        User userFive = new User("e", "e", 1, "e");userList.add(userFive);
-        User userSix = new User("f", "f", 1, "f");userList.add(userSix);
-        User userSeven = new User("g", "g", 1, "g");userList.add(userSeven);
-        User userEight = new User("h", "h", 1, "h");userList.add(userEight);
-        User userNine = new User("i", "i", 1, "i");userList.add(userNine);
-        User userTen = new User("j", "j", 1, "j");userList.add(userTen);
-        User userProf = new User("adm", "adm", 4, "adm");userList.add(userProf);
-        User userADM = new User("ADM","ADM",5,"ADM");userList.add(userADM);
         while(control){
             System.out.println("\nDigite a Opção escolhida:\n[0] - Fechar o Programa\n[1] - Criar Usuário\n[2] - Iniciar Login\n[3] - Recuperar Senha");
             int option = input.nextInt();
