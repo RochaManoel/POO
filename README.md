@@ -3,7 +3,7 @@ Sistema para Gerenciamento de Projetos
   O Sistema inicia-se pelo arquivo App.java, sendo assim. Temos as seguintes funcionalidades em todo o projeto.
 
 Funcionalidade 01.
-  A criação de informações de um usuário se encontra na página de login
+  A criação de informações de um usuário se encontra na página de login.
   A remoção de informações de um usuário se encontra na área de perfil.
   A criação de informações de um projeto se encontra na área de projetos.
   A remoção de informações de um projeto se encontra na área de projetos.
